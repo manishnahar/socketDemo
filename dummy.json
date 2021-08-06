@@ -1,0 +1,87 @@
+{
+    "addons": {
+      "chat": true,
+      "check_in": false,
+      "emergency": true,
+      "livevideo": true,
+      "non_emergency": true,
+      "staff_assist": true,
+      "tipster": true
+    },
+    "contact_number": "+1-777-777-7777",
+    "headquarter": {
+      "address": "Starbucks Florida Road, Florida Road, Windermere, Berea, South Africa",
+      "radius": 3888,
+      "latitude": -29.8315803,
+      "longitude": 31.0141647,
+      "is_incident_address": false,
+      "is_emergency_address": false,
+      "polygon": [
+        {
+          "lat": -29.82838096276961,
+          "lng": 31.00338802954712
+        },
+        {
+          "lat": -29.826482220645392,
+          "lng": 31.017807585211184
+        },
+        {
+          "lat": -29.830875333867382,
+          "lng": 31.02613316199341
+        },
+        {
+          "lat": -29.832401709350986,
+          "lng": 31.017292601080324
+        },
+        {
+          "lat": -29.83161991018701,
+          "lng": 31.00295887610474
+        }
+      ]
+    },
+    "isAdminOnMultipleLocations": false,
+    "is_geofence": false,
+    "is_outside_geo_panic": true,
+    "is_outside_geo_staff_assist": true,
+    "is_outside_geo_live_video": true,
+    "isorganization": false,
+    "location_category": "Government Building",
+    "location_contacts": "",
+    "id": "35069940-7e27-11e9-8edc-7f6f0c735361",
+    "locationIds": [],
+    "location_type": "public",
+    "logo": "0/0/1562052721761.png",
+    "name": "33 Location Update Check",
+    "std_operating_procedure": "<p>hiii edit</p>",
+    "organization_id": "816f4dc0-4099-11e9-a37c-f94e325a8378",
+    "organization_logo": "0/0/1600933122464.jpg",
+    "organization_name": "Volusia Sheriff's  TEST Org's",
+    "priviledges": {
+      "assign_incidents": false,
+      "claim_incidents": false,
+      "staff_assist": true,
+      "read_only_alerts": false,
+      "report_check_in": false,
+      "report_live_video_intel": true,
+      "respond_to_chat": false,
+      "submit_alerts": false,
+      "submit_emergency": true,
+      "submit_non_emergency": false,
+      "submit_reports": false,
+      "view_intel": false,
+      "view_intel_emergency": false,
+      "view_intel_live_video": false,
+      "view_intel_non_emergency": false,
+      "view_intel_staff_assist": false,
+      "view_intel_tip": false
+    },
+    "profile": {
+      "division": "",
+      "email_id": "vijeshjat@gmail.com",
+      "phone_number": "9644444746",
+      "title": "N/A"
+    },
+    "safety_map": "<p>oye</p>",
+    "user_role": "StaffVideoEmg",
+    "user_type_id": "95a6cae0-bf7f-11eb-b141-79cacd3c64a0"
+  }
